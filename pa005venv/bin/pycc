@@ -1,0 +1,3 @@
+#!/home/brunods/Documents/portfolio/pa005_insiders_clustering/pa005venv/bin/python3
+from numba.pycc import main
+main()
