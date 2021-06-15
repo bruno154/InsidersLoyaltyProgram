@@ -1,0 +1,13 @@
+pickle-mixin
+requests
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-plot
+BorutaShap
+sklearn
+flask
+yellowbrick
+pandas-profiling
